@@ -5,3 +5,6 @@ body {
 h1, h2 {
   font-family: 'Shadows Into Light', cursive;
 }
+dd {
+  white-space: pre-wrap;
+}
